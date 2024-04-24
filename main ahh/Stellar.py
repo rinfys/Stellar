@@ -50,7 +50,7 @@ def main():
                                  ██████╔╝   ██║   ███████╗███████╗███████╗██║  ██║██║  ██║
                                  ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ x     
                                                                    
- > {white}developed by @swedewtf, @rinfys,                                                        {white}Educational purposes only{blue} <  
+ > {white}developed by @swedewtf, @rinfy64,                                                        {white}Educational purposes only{blue} <  
  > {white}({blue}DSC{white}){blue} Discord.gg/stellarx                                                                           {white}({blue}placeholder{white}){blue} <
  > {white}({blue}?{white}){blue} Feature Description                                                                  {white}({blue}current version: {version}{white}){blue} <     
 ╔═══════════════════════════════════════╦═══════════════════════════════════╦════════════════════════════════════════╗
