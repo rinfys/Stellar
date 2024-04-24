@@ -4,7 +4,7 @@
 from colorama import Fore, Style, init
 init(convert=True)
 from util.plugins.pluh import *
-import Stellar
+import stellar
 
 red = Fore.RED + Style.BRIGHT
 green = Fore.GREEN + Style.BRIGHT
