@@ -4373,11 +4373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rinfy/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/AvaloniaApplication1.csproj",
+      "projectUniqueName": "/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/AvaloniaApplication1.csproj",
       "projectName": "AvaloniaApplication1",
-      "projectPath": "/Users/rinfy/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/AvaloniaApplication1.csproj",
+      "projectPath": "/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/AvaloniaApplication1.csproj",
       "packagesPath": "/Users/rinfy/.nuget/packages/",
-      "outputPath": "/Users/rinfy/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/obj/",
+      "outputPath": "/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rinfy/.nuget/NuGet/NuGet.Config"

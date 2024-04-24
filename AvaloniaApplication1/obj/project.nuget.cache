@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckkGC4qkx8xRt7kP+GUHL0f5bRDe9VPrGBTR011CJgiXQ0NyfdgHEK8JYk5eD6frY7JQgEkoMyNHLhxw1XeKSw==",
+  "dgSpecHash": "GzRHqrMxu33T+qv3yxoI4Qfrr0zX4q5Y7XDL9lv/Y+DxYZ3w8rPnjPoQSPCgBLHzBjZPWz2XUnBeXYi+2RQ2eg==",
   "success": true,
-  "projectFilePath": "/Users/rinfy/RiderProjects/AvaloniaApplication1/AvaloniaApplication1/AvaloniaApplication1.csproj",
+  "projectFilePath": "/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/AvaloniaApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/rinfy/.nuget/packages/avalonia/11.0.10/avalonia.11.0.10.nupkg.sha512",
     "/Users/rinfy/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2023020321/avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

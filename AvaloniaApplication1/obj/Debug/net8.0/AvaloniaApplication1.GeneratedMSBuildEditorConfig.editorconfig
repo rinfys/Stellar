@@ -13,12 +13,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AvaloniaApplication1
-build_property.ProjectDir = /Users/rinfy/Desktop/AvaloniaApplication1/AvaloniaApplication1/
+build_property.ProjectDir = /Users/rinfy/Desktop/Stellar/AvaloniaApplication1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/Users/rinfy/Desktop/AvaloniaApplication1/AvaloniaApplication1/App.axaml]
+[/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/rinfy/Desktop/AvaloniaApplication1/AvaloniaApplication1/MainWindow.axaml]
+[/Users/rinfy/Desktop/Stellar/AvaloniaApplication1/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
