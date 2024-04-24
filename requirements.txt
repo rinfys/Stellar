@@ -1,0 +1,6 @@
+colorama
+requests
+os-sys
+string
+selenium
+threading
