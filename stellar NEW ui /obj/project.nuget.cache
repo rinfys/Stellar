@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Cw9OE3P/HQ7BmCifcM1ToeDm3jAYM0w2Zdrao7GN825FRWk5cirwBGscOU/kIpeOW+QU8vR89lCdgtbuuZV7Q==",
+  "dgSpecHash": "byWmkpUdXr6y5byr16bW6T1Bvv6wdWW70VmOp+Cr3CM0bK9JRsLXE2qxcEzPkEA7IRwsXJ+WemuH/SLkHXYvkg==",
   "success": true,
-  "projectFilePath": "/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/stellar NEW ui.csproj",
+  "projectFilePath": "/Users/rinfy/Desktop/Stellar/stellar NEW ui /stellar NEW ui.csproj",
   "expectedPackageFiles": [
     "/Users/rinfy/.nuget/packages/avalonia/11.0.10/avalonia.11.0.10.nupkg.sha512",
     "/Users/rinfy/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2023020321/avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

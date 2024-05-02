@@ -13,12 +13,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = stellar_NEW_ui
-build_property.ProjectDir = /Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/
+build_property.ProjectDir = /Users/rinfy/Desktop/Stellar/stellar NEW ui /
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/App.axaml]
+[/Users/rinfy/Desktop/Stellar/stellar NEW ui /App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/MainWindow.axaml]
+[/Users/rinfy/Desktop/Stellar/stellar NEW ui /MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

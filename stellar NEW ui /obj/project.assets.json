@@ -4373,11 +4373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/stellar NEW ui.csproj",
+      "projectUniqueName": "/Users/rinfy/Desktop/Stellar/stellar NEW ui /stellar NEW ui.csproj",
       "projectName": "stellar NEW ui",
-      "projectPath": "/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/stellar NEW ui.csproj",
+      "projectPath": "/Users/rinfy/Desktop/Stellar/stellar NEW ui /stellar NEW ui.csproj",
       "packagesPath": "/Users/rinfy/.nuget/packages/",
-      "outputPath": "/Users/rinfy/RiderProjects/stellar NEW ui/stellar NEW ui/obj/",
+      "outputPath": "/Users/rinfy/Desktop/Stellar/stellar NEW ui /obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rinfy/.nuget/NuGet/NuGet.Config"
@@ -4398,6 +4398,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

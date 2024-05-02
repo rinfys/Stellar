@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stellar NEW ui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10e856c4d8e21a9f45be49b0d1916dce2b4ef3b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("stellar NEW ui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stellar NEW ui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
